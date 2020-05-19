@@ -1,0 +1,23 @@
+{
+  "name": "com.luciddan.ksp.parttools",
+  "version": "19.1.1",
+  "displayName": "KSP Part Tools",
+  "description": "Re-packaged UPM based on KSP Part Tools asset bundle",
+  "unity": "2019.2",
+  "unityRelease": "2f1",
+  "dependencies": {},
+  "keywords": [
+    "kerbal",
+    "space",
+    "program",
+    "parttools",
+    "ksp",
+    "modding"
+  ],
+  "author": {
+    "name": "Dan Sloan",
+    "email": "dan@luciddan.com",
+    "url": "https://luciddan.com/ksp/"
+  }
+}
+
