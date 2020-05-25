@@ -1,6 +1,6 @@
 {
-  "name": "com.luciddan.ksp.parttools",
-  "version": "19.1.2",
+  "name": "com.luciddan.parttools",
+  "version": "1.9.1",
   "displayName": "KSP Part Tools",
   "description": "Re-packaged UPM based on KSP Part Tools asset bundle",
   "unity": "2019.2",
