@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [19.1.1] - 2020-05-19
+## [1.9.1] - 2020-05-19
 ### Added
 - Added KSP Part Tools for KSP 1.9.1, from the assetbundle released by Squad.
 - Added TextMesh Pro DLLs from the 2017.1 bundle released by Unity. The 2017.1 DLL is required because the Part Tools DLLs are still compiled against the old Unity for some reason.
